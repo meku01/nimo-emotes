@@ -6,15 +6,3 @@
                    }
                ]
 }
-{
-  "emotes": [
-    {
-      "code": "dorohacker",
-      "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdkanhjMXI4MHYzYmZraTB5ZHlydzhnYzYwbzQxYzlxdXZlYzVvNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yNbPVhBcbKw9eZ6KtW/giphy.gif"
-    },
-    {
-      "code": "cine",
-      "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdxbmFwd2dtZWhsaXVkcXhhazRpdTd4bG5qcDdtdXozbHA1MW0zMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q90dzML4xQuo6RaD0N/giphy.gif"
-    }
-  ]
-}
